@@ -2,6 +2,12 @@
 
 A new Flutter UI project.This Ui was done with a reference of a dribbble design.
 
+# Output
+
+![](images/output_1.png)
+![](images/output_2.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
