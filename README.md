@@ -1,6 +1,6 @@
 # my_wallet_app_ui
 
-A new Flutter UI project.
+A new Flutter UI project.This Ui was done with a reference of a dribbble design.
 
 ## Getting Started
 
